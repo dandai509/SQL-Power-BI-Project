@@ -1,8 +1,11 @@
 # SQL-Power-BI-Project-Eden Pizza Sales Analysis 
+
 ## Business Problem
 The owner of the Pizza store would like to have insight information about how his shop performing, he wants to know some KPIs including, total revenue, total orders, most popular pizza etc to help him make some business decisions. As a Data Analyst, I will analyse the raw data by use SQL server and present it in Power BI to the owner, I will also provide some recommendations to the owner for him to make decisions.
+
 ## Data Cleaning 
 The Original data given by the owner was in in spreadsheet, it has eight categories of Pizza id, order id, pizza name, quantity, order date, order time, unit price, total price, pizza size, pizza catrgory, pizza ingredients and pizza names. All data is in clean formation, with no errors or null values. Imported to SQL Server for analysis
+
 ## Data Analysis(SQL)
 ### KPIs 
 ### Total Revenue
@@ -104,6 +107,8 @@ ORDER BY Total_Orders DESC
 
 ## Eden Pizza Sales Dashborad 
 
+The Two pages of Dashboard provided an overview of Eden Pizza sales. First page showed what are the most popular pizza sold and also the percentage of the sales of each pizza category. Daily/Monhthly trends are also hsowed to find out which is the busiest day of the week. Second page showed best/worst sellers of the Pizzas by Sales, Quantity and orders.
+
 ![Dashboard-Summary](https://github.com/dandai509/SQL-Power-BI-Project/assets/106848444/aded3d66-a2f7-4eef-9dd3-42a24670ec3c)
 https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/ReportSection?experience=power-bi
 
@@ -111,9 +116,9 @@ https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/R
 
 https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/ReportSectionb44cdbbdde8cec96f561?experience=power-bi
 
+## Conclusion 
 
-
-
+Classic pizza has the most sales, recommend to get more than enough ingrediants in order to supply enough classic pizzas. Friday has the highest orders, recomend to have more staff shifted on Friday to accompanny the high demand. Remove Brie Carre as it performed the worst in terms of revenue, quantity and total orders. 
 
 
 
