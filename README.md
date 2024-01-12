@@ -104,7 +104,8 @@ ORDER BY Total_Orders DESC
 
 ## Eden Pizza Sales Dashborad 
 
-
+https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/ReportSection?experience=power-bi
+https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/ReportSectionb44cdbbdde8cec96f561?experience=power-bi
 
 
 
