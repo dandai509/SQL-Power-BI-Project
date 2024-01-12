@@ -104,7 +104,11 @@ ORDER BY Total_Orders DESC
 
 ## Eden Pizza Sales Dashborad 
 
+![Dashboard-Summary](https://github.com/dandai509/SQL-Power-BI-Project/assets/106848444/aded3d66-a2f7-4eef-9dd3-42a24670ec3c)
 https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/ReportSection?experience=power-bi
+
+![Dashboard-BestWorst Seller](https://github.com/dandai509/SQL-Power-BI-Project/assets/106848444/420a0113-119d-4a9c-934e-7cc4d6c062f5)
+
 https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/ReportSectionb44cdbbdde8cec96f561?experience=power-bi
 
 
