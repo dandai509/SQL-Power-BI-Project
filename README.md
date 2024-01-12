@@ -118,7 +118,7 @@ https://app.powerbi.com/groups/me/reports/a549e64c-5c2b-4696-98c5-a39fc607030b/R
 
 ## Conclusion 
 
-Classic pizza has the most sales, recommend to get more than enough ingrediants in order to supply enough classic pizzas. Friday has the highest orders, recomend to have more staff shifted on Friday to accompanny the high demand. Remove Brie Carre as it performed the worst in terms of revenue, quantity and total orders. 
+Classic pizza has the most sales, and it is recommended to get more than enough ingredients to supply enough classic pizzas. Friday has the highest orders, it is recommended to have more staff on Friday to accompany the high demand. Remove Brie Carre as it performed the worst in revenue, quantity and total orders.
 
 
 
